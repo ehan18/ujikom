@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T03:37:23.846Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" version="20.8.5" etag="u0NdagOQEzQUWVQPlnEK" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T03:39:16.558Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" version="20.8.5" etag="NMocV6w4EW6OwxxhMAKn" type="github">
   <diagram id="v01f8i2NSRcxNV969zMh" name="Halaman-1">
     <mxGraphModel dx="1272" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
           <mxGeometry x="620" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BNpPBSn-buIhIFTiyq_G-24" value="Memiliki tugas" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="200" width="110" height="60" as="geometry" />
+          <mxGeometry x="1045" y="200" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BNpPBSn-buIhIFTiyq_G-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BNpPBSn-buIhIFTiyq_G-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BNpPBSn-buIhIFTiyq_G-27" value="PETUGAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BNpPBSn-buIhIFTiyq_G-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BNpPBSn-buIhIFTiyq_G-27" target="BNpPBSn-buIhIFTiyq_G-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
