@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T02:31:15.447Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" version="20.8.5" etag="g5loQ1P_P_K8oOVoyEOY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T03:37:23.846Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" version="20.8.5" etag="u0NdagOQEzQUWVQPlnEK" type="github">
   <diagram id="v01f8i2NSRcxNV969zMh" name="Halaman-1">
-    <mxGraphModel dx="1272" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,9 +109,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BNpPBSn-buIhIFTiyq_G-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNpPBSn-buIhIFTiyq_G-41" target="BNpPBSn-buIhIFTiyq_G-36">
+        <mxCell id="BNpPBSn-buIhIFTiyq_G-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.964;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BNpPBSn-buIhIFTiyq_G-41" target="BNpPBSn-buIhIFTiyq_G-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="577.5" y="420" as="sourcePoint" />
+            <mxPoint x="570" y="420" as="sourcePoint" />
             <mxPoint x="620" y="380" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
